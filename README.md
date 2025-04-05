@@ -93,10 +93,10 @@ gcloud artifacts docker images list \
 ### 9. Run the Image from Cloud
 
 ```bash
-docker run -d -p 8080:8080 australia-southeast2-docker.pkg.dev/sit737-455908/my-docker-repo/simple-app
+docker run australia-southeast2-docker.pkg.dev/sit737-455908/my-docker-repo/simple-app
 ```
 
-Visit: [http://localhost:8080](http://localhost:8080)
+Visit: (http://localhost:3000)
 
 ---
 
